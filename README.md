@@ -1,5 +1,6 @@
-#URL-Shortener-service
-A URL shortener service like bit.ly
-## Run
+## run backend
 npm install
-## npm run devStart
+npm run devStart
+## run frontend
+npm install
+npm start
